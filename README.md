@@ -1,6 +1,6 @@
 # ESPHome Thermostat and 3-Speed Fan
 
-### Watch the full tutorial and ESPHome Code Breakdown here: [Coming Soon!](https:#)
+### Watch the full tutorial and ESPHome Code Breakdown here: [Full Tutorial](https://youtu.be/ru6N80en3uo)
 ### Watch the 3-Speed Fan ['Hardware Convert' tutorial Here](https://youtu.be/_XgJyYwlejo)
 
 

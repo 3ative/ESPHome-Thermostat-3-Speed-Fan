@@ -32,9 +32,15 @@ climate:
       min_temperature: 15
       max_temperature: 40
     sensor: room_temperature
-
-    default_target_temperature_low: 18.0  ### Remove for single Control Thermostat
-    default_target_temperature_high: 22.0
+    
+    default_preset: Home                      ### NEW! Use this to set Preset
+    on_boot_restore_from: memory              ### Use this to "Restore From Memeory" (A Saved State) OR...
+    # on_boot_restore_from: default_preset    ### Use this to set Preset to start on every Boot    
+    preset:
+      - name: Home
+        default_target_temperature_low: 18.0  ### Remove for single Control Thermostat
+        default_target_temperature_high: 22.0
+  
     min_cooling_off_time: 1s
     min_cooling_run_time: 1s
     min_heating_off_time: 1s              ### Remove for single Control Thermostat

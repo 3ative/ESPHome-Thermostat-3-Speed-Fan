@@ -10,11 +10,8 @@
 
 ![Capture](https://user-images.githubusercontent.com/51385971/188827073-031569de-bf1c-4451-bbc8-c2790b6c0be2.JPG)
 
-
-🎁 Found this useful or want to say 'thanks' and support my efforts...
-
-[![BMC](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/3ative)
-
-**And leave a me a message to let me know how much you ❤ it.**
-
-🍺 CHEERS! 👍
+___
+#### 💖 Found this useful, want to say '*Thanks*' and support my efforts. *CHEERS*🍺
+| Buy me a Coffee | PATREON |
+|-----------------|---------|
+| https://www.buymeacoffee.com/3ative | https://www.patreon.com/3ative |

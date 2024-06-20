@@ -17,6 +17,7 @@ wifi:
 logger:
 api:
 ota:
+  platform: esphome
 
 sensor:
   - platform: homeassistant

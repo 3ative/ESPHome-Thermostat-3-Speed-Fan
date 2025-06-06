@@ -3,6 +3,8 @@
 ### Watch the full tutorial and ESPHome Code Breakdown here: [Full Tutorial](https://youtu.be/ru6N80en3uo)
 ### Watch the 3-Speed Fan ['Hardware Convert' tutorial Here](https://youtu.be/_XgJyYwlejo)
 
+## Updated Tutorial: [Ultimate Fan Project v4.0](https://youtu.be/jFA75R_Z6gE)
+
 
 ### Download the ESPHome Code:
 * 1 - Use the '***Code***' button above (_Top Right_)

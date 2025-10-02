@@ -41,12 +41,21 @@ climate:
       - name: Home
         default_target_temperature_low: 18.0  ### Remove for single Control Thermostat
         default_target_temperature_high: 22.0
+        mode: HEAT_COOL                       ### Added "HEAT_COOL Mode ###
   
     min_cooling_off_time: 1s
     min_cooling_run_time: 1s
     min_heating_off_time: 1s              ### Remove for single Control Thermostat
     min_heating_run_time: 1s              ### Remove for single Control Thermostat
     min_idle_time: 1s
+
+##### Added to fix for Heat Cool Mode #####
+    heat_cool_mode:
+      then:
+        - lambda: |-
+            // Do nothing
+###########################################
+
     cool_action:
       - homeassistant.service:
           service: homeassistant.turn_on
@@ -92,3 +101,4 @@ climate:
                     } else {
                      return "1";
                     }
+
